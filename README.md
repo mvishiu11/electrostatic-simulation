@@ -54,6 +54,16 @@ The electrostatic field is visualized using a color gradient, where:
 - **Blue** represents the negative intensity of the field.
 The particles are shown as dots, with protons in red and electrons in blue. Field intensity is also scaled, allowing the user to observe the field's spatial distribution in real time.
 
+Examples of the visualization are shown below:
+
+- **Field visualization**
+
+![Field Visualization](images/field_visualization.png)
+
+- **Particle Dynamics**
+
+![Particle Dynamics](images/particle_dynamics.png)
+
 ---
 
 ## Goals and Objectives
